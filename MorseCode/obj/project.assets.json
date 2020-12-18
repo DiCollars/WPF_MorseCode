@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MorseCodeLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MorseCodeLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MorseCodeLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MorseCodeLibrary/1.0.0": {
+      "type": "project",
+      "path": "../MorseCodeLibrary/MorseCodeLibrary.csproj",
+      "msbuildProject": "../MorseCodeLibrary/MorseCodeLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MorseCodeLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DI\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\DI\\Desktop\\MorseCode\\MorseCode\\MorseCode.csproj",
+      "projectName": "MorseCode",
+      "projectPath": "C:\\Users\\DI\\Desktop\\MorseCode\\MorseCode\\MorseCode.csproj",
+      "packagesPath": "C:\\Users\\DI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DI\\Desktop\\MorseCode\\MorseCode\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\DI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\DI\\Desktop\\MorseCode\\MorseCodeLibrary\\MorseCodeLibrary.csproj": {
+              "projectPath": "C:\\Users\\DI\\Desktop\\MorseCode\\MorseCodeLibrary\\MorseCodeLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

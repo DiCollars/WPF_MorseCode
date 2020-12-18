@@ -1,0 +1,9 @@
+C:\Users\DI\Desktop\MorseCode\MorseCodeLibrary\bin\Debug\netcoreapp3.1\MorseCodeLibrary.deps.json
+C:\Users\DI\Desktop\MorseCode\MorseCodeLibrary\bin\Debug\netcoreapp3.1\MorseCodeLibrary.dll
+C:\Users\DI\Desktop\MorseCode\MorseCodeLibrary\bin\Debug\netcoreapp3.1\MorseCodeLibrary.pdb
+C:\Users\DI\Desktop\MorseCode\MorseCodeLibrary\obj\Debug\netcoreapp3.1\MorseCodeLibrary.csprojAssemblyReference.cache
+C:\Users\DI\Desktop\MorseCode\MorseCodeLibrary\obj\Debug\netcoreapp3.1\MorseCodeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DI\Desktop\MorseCode\MorseCodeLibrary\obj\Debug\netcoreapp3.1\MorseCodeLibrary.AssemblyInfoInputs.cache
+C:\Users\DI\Desktop\MorseCode\MorseCodeLibrary\obj\Debug\netcoreapp3.1\MorseCodeLibrary.AssemblyInfo.cs
+C:\Users\DI\Desktop\MorseCode\MorseCodeLibrary\obj\Debug\netcoreapp3.1\MorseCodeLibrary.dll
+C:\Users\DI\Desktop\MorseCode\MorseCodeLibrary\obj\Debug\netcoreapp3.1\MorseCodeLibrary.pdb
